@@ -1,4 +1,4 @@
-Program kkkk;
+Program kkkb;
 Var Integer aaaa, bbbb, cccc, maxm;
 Start
     Input(aaaa)

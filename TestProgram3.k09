@@ -1,4 +1,4 @@
-Program kkkk;
+Program kkkc;
 Var Integer aaaa, bbbb, cyca, cycb, xval;
 Start
     Input(aaaa)
