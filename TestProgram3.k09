@@ -4,7 +4,7 @@ Start
     Input(aaaa)
     Input(bbbb)
 
-    cyca -> aaaa
+    aaaa -> cyca
     while cyca Le bbbb {
         Output(cyca Mul cyca)
         (cyca + 1) -> cyca
